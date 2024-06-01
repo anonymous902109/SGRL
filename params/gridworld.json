@@ -1,0 +1,17 @@
+{   "horizon": 3,
+    "xl": 0,
+    "xu": 5,
+    "n_gen": 25,
+    "pop_size": 24,
+    "expl_budget": 10,
+    "layer_shapes": [[32, 512], [512, 512], [512, 26]],
+    "ts_n_iter": 300,
+    "ts_n_expand": 20,
+    "n_sim": 10,
+    "max_actions": 3,
+    "max_level": 20,
+    "c": 0.7,
+    "task_name": "gridworld"
+}
+
+

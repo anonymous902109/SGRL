@@ -1,0 +1,58 @@
+Agent: 6.0 Monster: 9.0 Trees: [{7: 2}, {12: 2}, {22: 1}] Action = 4 Importance = 5.249529123306274
+Agent: 11.0 Monster: 13.0 Trees: [{2: 2}, {7: 2}, {12: 2}, {17: 2}] Action = 4 Importance = 5.566243886947632
+Agent: 11.0 Monster: 8.0 Trees: [{2: 2}, {7: 1}, {12: 2}, {22: 1}] Action = 3 Importance = 5.85735559463501
+Agent: 0.0 Monster: 4.0 Trees: [{2: 2}, {7: 1}, {12: 1}, {17: 2}] Action = 0 Importance = 5.063912391662598
+Agent: 10.0 Monster: 19.0 Trees: [{7: 1}, {22: 2}] Action = 1 Importance = 6.487464666366577
+Agent: 10.0 Monster: 3.0 Trees: [{2: 1}, {7: 2}, {12: 1}] Action = 0 Importance = 5.803460121154785
+Agent: 10.0 Monster: 19.0 Trees: [{2: 2}, {7: 2}, {17: 1}, {22: 2}] Action = 1 Importance = 5.535919904708862
+Agent: 11.0 Monster: 19.0 Trees: [{7: 2}] Action = 1 Importance = 5.83247709274292
+Agent: 11.0 Monster: 9.0 Trees: [{2: 2}, {12: 1}, {17: 1}, {22: 2}] Action = 3 Importance = 6.152894020080566
+Agent: 16.0 Monster: 19.0 Trees: [{2: 2}, {7: 2}, {12: 1}, {17: 1}, {22: 2}] Action = 4 Importance = 5.883387565612793
+Agent: 10.0 Monster: 4.0 Trees: [{2: 2}, {7: 1}, {12: 2}, {17: 2}] Action = 0 Importance = 5.783713459968567
+Agent: 6.0 Monster: 9.0 Trees: [{2: 2}, {7: 1}, {12: 1}, {22: 1}] Action = 4 Importance = 5.9171366691589355
+Agent: 15.0 Monster: 23.0 Trees: [{2: 1}, {12: 1}, {17: 2}, {22: 2}] Action = 0 Importance = 5.332212686538696
+Agent: 11.0 Monster: 14.0 Trees: [{7: 2}, {12: 1}, {17: 2}] Action = 4 Importance = 6.1960129737854
+Agent: 20.0 Monster: 23.0 Trees: [{2: 2}, {22: 1}] Action = 0 Importance = 4.615071773529053
+Agent: 10.0 Monster: 3.0 Trees: [{2: 2}, {7: 2}, {17: 2}, {22: 1}] Action = 3 Importance = 5.337133601307869
+Agent: 6.0 Monster: 8.0 Trees: [{7: 2}, {22: 1}] Action = 4 Importance = 5.254085302352905
+Agent: 5.0 Monster: 4.0 Trees: [{2: 2}, {7: 2}, {22: 1}] Action = 3 Importance = 5.438654184341431
+Agent: 5.0 Monster: 4.0 Trees: [{7: 1}, {12: 1}] Action = 3 Importance = 5.948482513427734
+Agent: 6.0 Monster: 19.0 Trees: [{7: 2}, {17: 2}, {22: 2}] Action = 1 Importance = 5.170507907867432
+Agent: 11.0 Monster: 19.0 Trees: [{22: 2}] Action = 1 Importance = 6.027592182159424
+Agent: 16.0 Monster: 19.0 Trees: [{2: 1}, {7: 1}, {12: 1}, {17: 2}, {22: 2}] Action = 4 Importance = 5.60422682762146
+Agent: 11.0 Monster: 18.0 Trees: [{2: 1}, {7: 1}, {12: 2}, {17: 2}] Action = 1 Importance = 5.8384013175964355
+Agent: 16.0 Monster: 19.0 Trees: [{2: 1}, {7: 1}, {12: 1}, {17: 1}, {22: 2}] Action = 4 Importance = 6.0520570278167725
+Agent: 16.0 Monster: 23.0 Trees: [{2: 1}, {12: 1}, {17: 2}, {22: 2}] Action = 1 Importance = 5.538145065307617
+Agent: 10.0 Monster: 19.0 Trees: [{2: 1}, {7: 2}, {12: 2}] Action = 1 Importance = 5.926638841629028
+Agent: 11.0 Monster: 19.0 Trees: [{2: 1}, {12: 1}, {17: 2}] Action = 1 Importance = 5.397656679153442
+Agent: 21.0 Monster: 23.0 Trees: [{7: 2}, {12: 2}, {17: 2}, {22: 1}] Action = 4 Importance = 5.5810747146606445
+Agent: 16.0 Monster: 18.0 Trees: [{7: 1}, {12: 1}, {17: 1}, {22: 1}] Action = 4 Importance = 6.1095871925354
+Agent: 6.0 Monster: 9.0 Trees: [{2: 2}, {7: 1}, {12: 1}, {17: 1}, {22: 1}] Action = 4 Importance = 5.67446231842041
+Agent: 6.0 Monster: 8.0 Trees: [{2: 2}, {7: 2}, {12: 2}, {17: 2}, {22: 2}] Action = 4 Importance = 5.39451265335083
+Agent: 10.0 Monster: 14.0 Trees: [{2: 2}, {7: 1}, {12: 1}, {22: 2}] Action = 0 Importance = 5.5745110511779785
+Agent: 16.0 Monster: 18.0 Trees: [{2: 2}, {7: 2}, {12: 1}, {17: 2}, {22: 2}] Action = 4 Importance = 5.199207067489624
+Agent: 1.0 Monster: 3.0 Trees: [{2: 2}, {7: 2}, {12: 1}] Action = 4 Importance = 5.166858911514282
+Agent: 11.0 Monster: 3.0 Trees: [{7: 2}, {17: 2}] Action = 3 Importance = 5.932470798492432
+Agent: 16.0 Monster: 13.0 Trees: [{2: 2}, {12: 2}, {17: 1}, {22: 1}] Action = 3 Importance = 5.016989469528198
+Agent: 10.0 Monster: 4.0 Trees: [{2: 2}, {7: 1}, {12: 2}] Action = 0 Importance = 5.2996145486831665
+Agent: 16.0 Monster: 23.0 Trees: [{2: 1}, {7: 2}, {12: 2}, {17: 1}, {22: 2}] Action = 1 Importance = 4.971281290054321
+Agent: 6.0 Monster: 13.0 Trees: [{2: 1}, {7: 1}, {12: 2}, {17: 1}, {22: 2}] Action = 1 Importance = 5.1634721755981445
+Agent: 16.0 Monster: 18.0 Trees: [{7: 1}, {12: 1}, {17: 2}] Action = 4 Importance = 5.270351886749268
+Agent: 0.0 Monster: 4.0 Trees: [{2: 1}, {7: 1}, {12: 1}, {22: 2}] Action = 0 Importance = 5.445548057556152
+Agent: 16.0 Monster: 19.0 Trees: [{2: 1}, {7: 2}, {12: 2}, {17: 1}] Action = 4 Importance = 5.495598316192627
+Agent: 6.0 Monster: 3.0 Trees: [{2: 1}, {7: 1}, {12: 1}, {17: 2}, {22: 1}] Action = 3 Importance = 5.873953819274902
+Agent: 11.0 Monster: 13.0 Trees: [{2: 1}, {7: 1}, {12: 2}, {17: 2}] Action = 4 Importance = 5.672714710235596
+Agent: 20.0 Monster: 23.0 Trees: [{2: 1}, {7: 1}, {12: 1}, {17: 1}, {22: 2}] Action = 0 Importance = 5.143930435180664
+Agent: 1.0 Monster: 3.0 Trees: [{2: 2}, {7: 1}, {12: 1}, {17: 1}] Action = 4 Importance = 5.694470643997192
+Agent: 11.0 Monster: 23.0 Trees: [{2: 1}, {7: 1}, {12: 1}, {17: 2}, {22: 2}] Action = 1 Importance = 6.057971000671387
+Agent: 11.0 Monster: 8.0 Trees: [{2: 2}, {7: 2}, {12: 2}, {17: 2}, {22: 1}] Action = 3 Importance = 5.9063920974731445
+Agent: 11.0 Monster: 4.0 Trees: [{2: 2}, {7: 2}, {12: 1}, {17: 2}] Action = 3 Importance = 4.879448592662811
+Agent: 6.0 Monster: 4.0 Trees: [{2: 1}, {7: 1}, {12: 1}, {17: 2}, {22: 2}] Action = 3 Importance = 6.104750633239746
+Agent: 6.0 Monster: 4.0 Trees: [{2: 2}, {7: 1}, {12: 1}, {22: 1}] Action = 3 Importance = 5.482245683670044
+Agent: 11.0 Monster: 13.0 Trees: [{12: 1}, {17: 1}] Action = 4 Importance = 5.657378196716309
+Agent: 11.0 Monster: 3.0 Trees: [{2: 2}, {7: 1}, {12: 2}, {17: 1}, {22: 2}] Action = 3 Importance = 5.69645357131958
+Agent: 11.0 Monster: 18.0 Trees: [{2: 1}, {12: 2}, {17: 1}, {22: 1}] Action = 1 Importance = 6.03797173500061
+Agent: 10.0 Monster: 18.0 Trees: [{7: 2}, {12: 1}, {17: 2}, {22: 2}] Action = 1 Importance = 4.987842321395874
+Agent: 11.0 Monster: 13.0 Trees: [{2: 1}, {7: 2}, {12: 1}, {17: 2}, {22: 2}] Action = 4 Importance = 5.618229389190674
+Agent: 6.0 Monster: 8.0 Trees: [{2: 2}, {7: 1}, {17: 1}] Action = 4 Importance = 5.496028423309326
+Agent: 6.0 Monster: 14.0 Trees: [{2: 2}, {7: 2}, {12: 2}, {17: 1}, {22: 2}] Action = 1 Importance = 5.2219343185424805
