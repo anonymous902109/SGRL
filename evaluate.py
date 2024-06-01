@@ -82,6 +82,6 @@ def main(task_name):
 
 
 if __name__ == '__main__':
-    tasks = ['gridworld']
+    tasks = ['frozen_lake']
     for t in tasks:
         main(t)
