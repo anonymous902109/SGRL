@@ -70,8 +70,8 @@ def main(task_name):
 
     # generate sfs using baselines
     fact_ids = np.random.choice(np.arange(0, test_n), test_n)
-    for f in baseline_facts:
-        baselines.generate_cfs(f, eval_path, test_n=test_n, fact_ids=fact_ids)
+    # for f in baseline_facts:
+    #     baselines.generate_cfs(f, eval_path, test_n=test_n, fact_ids=fact_ids)
 
     # define transition model
     transition_model = MonteCarloTransitionModel(env, bb_model, transition_model_path)
@@ -88,12 +88,12 @@ def main(task_name):
     for i, f in enumerate(all_facts_all_outcomes):
         f.id = i
 
-    for i, o in enumerate(outcomes):
-        fact_ids = np.load('data/user_study_gridworld/1/{}/fact_ids.npy'.format( o.name))
-        test_facts = [test_fact for j, test_fact in enumerate(all_facts_all_outcomes) if j in fact_ids]
-        for f in test_facts:
-            f.outcome = copy.copy(o)  # filter only test instances
-        generate_counterfactuals(methods, method_names, test_facts, outcomes[i], env, eval_path, params)
+    # for i, o in enumerate(outcomes):
+    #     fact_ids = np.load('data/user_study_gridworld/1/{}/fact_ids.npy'.format( o.name))
+    #     test_facts = [test_fact for j, test_fact in enumerate(all_facts_all_outcomes) if j in fact_ids]
+    #     for f in test_facts:
+    #         f.outcome = copy.copy(o)  # filter only test instances
+    #     generate_counterfactuals(methods, method_names, test_facts, outcomes[i], env, eval_path, params)
 
     outcome_names = ['why not 4', 'why not 5']
     method_names = ['SCF', 'SPF', 'SGEN_1']
