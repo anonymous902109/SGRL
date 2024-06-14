@@ -9,8 +9,6 @@ SGRL-Advance and SGRL-Rewind are two algorithms for generating semifactual expla
 
 ![Counterfactual Semifactual Explanations in RL](img/semifactual_generation.png "Generating semifactual explanations in RL")
 
-RACCER: Towards Reachable and Certain Counterfactual Explanations for Reinforcement Learning
-
 ### Requirements
 ```bash
 python >= 3.8
